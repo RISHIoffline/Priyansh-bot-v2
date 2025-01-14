@@ -24,24 +24,24 @@ const time = process.uptime(),
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Kolkata").format("『D/MM/YYYY』 【HH:mm:ss】");
 var link =                                     
-["https://i.ibb.co/hfNnxYN/b00aff06f18d6053e3d8ed45058b4c68.jpg", "https://i.ibb.co/jgk6rB0/7ce2390636d1a46a331662dbaaf693d6.jpg", "https://i.ibb.co/qRmVPbx/c2d197fceca703f0b167adf4a4e31821.jpg"];
+["https://i.imgur.com/hZzWIKb.jpeg", "https://i.imgur.com/Z6L1sbn.jpeg", "https://i.imgur.com/CNlB8KY.jpeg"];
 var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ ̿)🇮🇳 𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 🇮🇳 
 (⌐▀͡ ̯ʖ▀)︻̷┻̿═━一-
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
 
-🔥Bot Admin🔥☞︎︎︎𝐀𝐀𝐑𝐘𝐀𝐍 𝐒𝐇𝐀𝐑𝐀𝐁𝐈 ☜︎︎︎✰🎁
+🔥Bot Admin🔥☞︎︎︎𝐌𝐑 𝐃𝐄𝐕𝐈𝐋 𝐒𝐇𝐀𝐑𝐀𝐁𝐈 ☜︎︎︎✰🎁
 
-🙈bot andmin owner facebook id link🙈👇🏻\n https://www.facebook.com/ARYAN.SHARABI.HERE\n
+🙈bot andmin owner facebook id link🙈👇🏻\n https://www.facebook.com/61560621821421\n
 
 👋For Any Kind Of Help Contact On whatsapp 👇🏻\n
-+91 9664945791😇
++91 90248 70456 😇
 
 ✧══════•❁❀❁•══════✧
 
 🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️Bot Owner♥️ ☞︎︎︎𝐌𝐑..𝐀𝐀𝐑𝐘𝐀𝐍 ☜︎︎︎✰ 
+♥️Bot Owner♥️ ☞︎︎︎𝐌𝐑..𝐃𝐄𝐕𝐈𝐋 𝐒𝐇𝐀𝐑𝐀𝐁𝐈 ☜︎︎︎✰ 
 
 🥳UPTIME🥳
 
@@ -54,7 +54,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🦢🍒•••ꞪɛᏒɛ ɪʂ ɮ❍┼ ❍ωɳɜɽ ɳaʍɜ•••🌷💞
 ┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓
-🌸✦✧✧✧✧✰🍒𝐌𝐑..𝐀𝐀𝐑𝐘𝐀𝐍🤩🌿✰✧✧✧✧✦🌸
+🌸✦✧✧✧✧✰🍒𝐌𝐑..𝐃𝐄𝐕𝐈𝐋🤩🌿✰✧✧✧✧✦🌸
 ┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛
 
 
