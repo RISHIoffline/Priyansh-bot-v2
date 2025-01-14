@@ -13,16 +13,16 @@
     "eventDisabled": [
         "join.js"
     ],
-    "EMAIL": "",
-    "PASSWORD": "",
+    "EMAIL": "kicigo3882@cansku.com",
+    "PASSWORD": "RJ07ZAINA",
     "OTPKEY": "",
     "BOTNAME": "Your-Father",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100037743553265"
+        "61560621821421"
     ],
     "NDH": [
-        "100037743553265"
+        "61560621821421"
     ],
     "DATABASE": {
         "sqlite": {
