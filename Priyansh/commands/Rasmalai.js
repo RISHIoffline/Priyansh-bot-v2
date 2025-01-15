@@ -16,7 +16,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 		var msg = {
 				body: "💝 YE LO BBY Rasmalai KHAO 🍧\n\n(-𝐌𝐚𝐝𝐞 𝐁𝐲 𝗠𝗿..𝐃𝐄𝐕𝐈𝐋❤️-)",
 				attachment: 
-fs.createReadStream(__dirname + `/cache/rasgulla.jpg`)
+fs.createReadStream(__dirname + `/cache/Rasmalai.jpg`)
 			}
 			api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("🍧", event.messageID, (err) => {}, true)
@@ -24,4 +24,4 @@ fs.createReadStream(__dirname + `/cache/rasgulla.jpg`)
 	}
 	module.exports.run = function({ api, event, client, __GLOBAL }) {
 
-  }
+	}
