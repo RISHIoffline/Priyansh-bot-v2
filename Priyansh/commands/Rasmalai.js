@@ -1,6 +1,6 @@
 const fs = require("fs");
 module.exports.config = {
-	name: "rasgulaa",
+	name: "rasmalai ",
     version: "1.0.1",
 	hasPermssion: 0,
 	credits: "𝙋𝙧𝙞𝙮𝙖𝙣𝙨𝙝 𝙍𝙖𝙟𝙥𝙪𝙩", 
@@ -16,7 +16,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 		var msg = {
 				body: "💝 YE LO BBY Rasmalai KHAO 🍧\n\n(-𝐌𝐚𝐝𝐞 𝐁𝐲 𝗠𝗿..𝐃𝐄𝐕𝐈𝐋❤️-)",
 				attachment: 
-fs.createReadStream(__dirname + `/cache/Priyansh/commands/cache/Rasmalai .jpg`)
+fs.createReadStream(__dirname + `/cache/Rasmalai.jpg`)
 			}
 			api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("🍧", event.messageID, (err) => {}, true)
